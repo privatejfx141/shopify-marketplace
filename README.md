@@ -29,7 +29,7 @@ http://localhost:8000/api/products/<product-id>/
 ```
 
 ### Running Tests
-To execute the test cases that are specified under `api\tests.py`, run the following command:
+To execute the test cases that are specified under `api/tests.py`, run the following command:
 ```
 $ ./manage.py test
 ```
